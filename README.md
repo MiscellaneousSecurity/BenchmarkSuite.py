@@ -1,1 +1,1 @@
-# Benchmark.py
+# BenchmarkSuite.py
